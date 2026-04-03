@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application4</string>
+    <string name="first_android_app">First android App</string>
+    <string name="enter_name">enter name ....</string>
+    <string name="name">Name</string>
+    <string name="show_name">show name</string>
+    <string name="entername">enter name ....</string>
+    <string-array name="arrPl">
+        <item> java </item>
+        <item> python </item>
+        <item> c++ </item>
+        <item> c# </item>
+        <item> c </item>
+
+    </string-array>
+</resources>
